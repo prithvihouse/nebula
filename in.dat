@@ -1,0 +1,10 @@
+# read from file data about one day 
+# format: start_time:end_time:#steps
+09.30AM:09.45AM:220
+11.45AM:12.23PM:300
+11.45AM:10.23AM:302
+2.45PM:3.23PM:202
+3.45PM:3.53PM:90
+5.45PM:5.53PM:80
+6.45PM:7.23PM:1000
+10.45PM:10.53PM:102
